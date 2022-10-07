@@ -3,7 +3,15 @@
 
 Dedicated iOS Developer proficient in Swift + SwiftUI development. Ambassador of being a Swiftie without ever listening to Taylor Swift. 
 
-I am capable of building and shipping a complete iOS application by myself, as well as in close cooperation with fellow team members to achieve the best possible results for the team.
+I started my Swift developer journey with an independent project — an iPhone app called Stable. I developed, tested and shipped this application to the AppStore. During the process, I:
+— Built a responsive UI with advanced animations using SwiftUI.
+— Utilised a REST API and several SDKs, including Snapkit SDK and Google AdMob SDK.
+— Successfully conducted external testing of several builds using App Store Connect and TestFlight.
+
+
+About the project:
+
+"stable." is your place to concentrate on your mental health, wellbeing and productivity. 
 
 ![Main 5 5](https://user-images.githubusercontent.com/90253901/194671760-2a48ef82-c83f-40bb-8b84-e50b090bc412.png)
 
