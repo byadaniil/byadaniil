@@ -2,8 +2,8 @@
 # Hello, World! Daniil here 👋
 Dedicated iOS Developer proficient in Swift + SwiftUI development. Ambassador of being a Swiftie without ever listening to Taylor Swift. 
 Skills:<br />
-<img src="https://user-images.githubusercontent.com/90253901/194717945-e64920e4-d4ba-4e10-8ef8-f1a410f52923.png" width = "44">
-![Swift_logo_color](https://user-images.githubusercontent.com/90253901/194717945-e64920e4-d4ba-4e10-8ef8-f1a410f52923.png) Swift
+<img src="https://user-images.githubusercontent.com/90253901/194717945-e64920e4-d4ba-4e10-8ef8-f1a410f52923.png" width = "16"> Swift<br />
+<img src="https://user-images.githubusercontent.com/90253901/194718051-5e1005bb-fc0f-41aa-b843-d962660022a3.png" width = "16"> SwiftUI
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniil-bya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peachtuber/)  
