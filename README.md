@@ -17,6 +17,7 @@ Dedicated iOS Developer proficient in Swift + SwiftUI development. Ambassador of
 I started my Swift developer journey with an independent project — an iPhone app called Stable. I developed, tested and shipped this application to the AppStore. During the process, I:
 <br />— Built a responsive UI with advanced animations using SwiftUI.
 <br />— Utilised a REST API and several SDKs, including Snapkit SDK and Google AdMob SDK.
+<br />— Leveraged multiple Apple frameworks, including Core Image, WidgetKit, UIKit, UserNotifications.
 <br />— Successfully conducted external testing of several builds using App Store Connect and TestFlight.
 
 About the project:
