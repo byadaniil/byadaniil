@@ -14,7 +14,9 @@ About the project:
 
 ![Main 5 5](https://user-images.githubusercontent.com/90253901/194671760-2a48ef82-c83f-40bb-8b84-e50b090bc412.png)
 
-https://user-im![Reflect](https://user-images.githubusercontent.com/90253901/194710663-103a7188-1934-4320-8787-40140506eae5.gif)
+
+![Reflect gif](https://user-images.githubusercontent.com/90253901/194710908-e9a78ede-12fc-4e24-bcf3-875ad54e9aa7.gif)
+
 
 How are you feeling today? Are you happy, excited, anxious, or sad? What is on your mind? Keep track of your thoughts and feelings every day and get a colourful visual representation in the Mood Calendar. Add a Photo of the Day every day to revisit your memories later.
 
