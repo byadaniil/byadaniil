@@ -1,6 +1,7 @@
 ![headerPic](https://user-images.githubusercontent.com/90253901/194671328-0c0af353-e936-430a-afec-f9b3e4d37496.png)
 # Hello, World! Daniil here 👋
 Dedicated iOS Developer proficient in Swift + SwiftUI development. Ambassador of being a Swiftie without ever listening to Taylor Swift. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniil-bya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peachtuber/)  
 
 ### Stable
 I started my Swift developer journey with an independent project — an iPhone app called Stable. I developed, tested and shipped this application to the AppStore. During the process, I:
