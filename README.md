@@ -14,20 +14,16 @@ About the project:
 
 ![Main 5 5](https://user-images.githubusercontent.com/90253901/194671760-2a48ef82-c83f-40bb-8b84-e50b090bc412.png)
 
-
-![Reflect gif](https://user-images.githubusercontent.com/90253901/194710908-e9a78ede-12fc-4e24-bcf3-875ad54e9aa7.gif)
-
+![Reflect](https://user-images.githubusercontent.com/90253901/194712205-8c349083-6bbb-4291-a8b4-afc4bdb4ed13.gif)
 
 How are you feeling today? Are you happy, excited, anxious, or sad? What is on your mind? Keep track of your thoughts and feelings every day and get a colourful visual representation in the Mood Calendar. Add a Photo of the Day every day to revisit your memories later.
 
-![My-Calendar](https://user-images.githubusercontent.com/90253901/194710678-536031b9-1066-417e-b827-1678bfb5e029.gif)
+![My Calendar](https://user-images.githubusercontent.com/90253901/194712223-fda33243-4ab4-45d2-ba96-3672550d89ea.gif)
 
 Share your Day Rewind to Instagram or Snapchat using the smart templates. 
 
-
+![Show and Tell](https://user-images.githubusercontent.com/90253901/194712409-17367210-a105-4df4-8b78-db663b8f0bee.gif)
 
 Plan your day, crush your tasks to earn points and close your Daily Rings. Be careful: overdue tasks earn you less points.
 
-https://user-images.githubusercontent.com/90253901/194673161-90752ee7-9f4b-4303-9254-c74cf6f57003.mov
-
-
+![Be Productive](https://user-images.githubusercontent.com/90253901/194712455-85785167-03b8-4b44-bd80-e382760f25b1.gif)
