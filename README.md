@@ -11,8 +11,6 @@ Dedicated iOS Developer proficient in Swift + SwiftUI development. Ambassador of
 |<img src="https://user-images.githubusercontent.com/90253901/194718581-ab952b3c-e3c9-4a02-9f23-646ba39807c2.png" width = "16"> Git<br />|
 |<img src="https://user-images.githubusercontent.com/90253901/194718768-df924f5a-d0d1-4afd-9c45-43ee0a092fe1.png" width = "16"> UX Design<br />|
 
-### Socials:
-
 
 ## Stable
 I started my Swift developer journey with an independent project — an iPhone app called Stable. I developed, tested and shipped this application to the AppStore. During the process, I:
