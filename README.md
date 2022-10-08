@@ -35,6 +35,10 @@ Share your Day Rewind to Instagram or Snapchat using the smart templates.
 
 ![Show and Tell](https://user-images.githubusercontent.com/90253901/194712409-17367210-a105-4df4-8b78-db663b8f0bee.gif)
 
+Images are generated automatically using Core Image. The app then utilizes SnapKit SDK and Instagram sharing API to export these images straight to Snapchat, Instagram or iPhone's Camera Roll
+
+![Snapchat Export](https://user-images.githubusercontent.com/90253901/194719968-85949df3-3a2b-464a-a003-abb650c46b54.gif)
+
 Plan your day, crush your tasks to earn points and close your Daily Rings. Be careful: overdue tasks earn you less points.
 
 ![Be Productive](https://user-images.githubusercontent.com/90253901/194712455-85785167-03b8-4b44-bd80-e382760f25b1.gif)
