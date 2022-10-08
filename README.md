@@ -27,3 +27,5 @@ Share your Day Rewind to Instagram or Snapchat using the smart templates.
 Plan your day, crush your tasks to earn points and close your Daily Rings. Be careful: overdue tasks earn you less points.
 
 ![Be Productive](https://user-images.githubusercontent.com/90253901/194712455-85785167-03b8-4b44-bd80-e382760f25b1.gif)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=byadaniil&count_private=true)
