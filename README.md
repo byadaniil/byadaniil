@@ -8,9 +8,7 @@ Dedicated iOS Developer proficient in Swift + SwiftUI development. Ambassador of
 <img src="https://user-images.githubusercontent.com/90253901/194718231-49e215f4-11c5-4075-af13-17d6ae00467c.png" width = "16"> Java<br />
 <img src="https://user-images.githubusercontent.com/90253901/194718279-025f8f52-3bf2-46a4-8bb3-53e68af0084b.png" width = "16"> JavaScript<br />
 <img src="https://user-images.githubusercontent.com/90253901/194718581-ab952b3c-e3c9-4a02-9f23-646ba39807c2.png" width = "16"> Git<br />
-📱 UI / UX Design<br />
-
-
+<img src="https://user-images.githubusercontent.com/90253901/194718768-df924f5a-d0d1-4afd-9c45-43ee0a092fe1.png" width = "16> UX Design<br />
 
 ### Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniil-bya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peachtuber/)  
