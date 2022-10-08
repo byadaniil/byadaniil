@@ -1,7 +1,8 @@
 ![headerPic](https://user-images.githubusercontent.com/90253901/194671328-0c0af353-e936-430a-afec-f9b3e4d37496.png)
 # Hello, World! Daniil here 👋
 Dedicated iOS Developer proficient in Swift + SwiftUI development. Ambassador of being a Swiftie without ever listening to Taylor Swift. 
-Skills:
+Skills:<br />
+<img src="https://user-images.githubusercontent.com/90253901/194717945-e64920e4-d4ba-4e10-8ef8-f1a410f52923.png" width = "44">
 ![Swift_logo_color](https://user-images.githubusercontent.com/90253901/194717945-e64920e4-d4ba-4e10-8ef8-f1a410f52923.png) Swift
 
 
